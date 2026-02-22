@@ -1,0 +1,11 @@
+form_url = "https://docs.google.com/forms/d/e/xxxxxxxxxxxxxxxxxxxxxxxxxxxx/viewform?usp=sf_link"
+
+[[entries]]
+question_id = "123456789"
+answer      = "{today}"
+comment     = "日付"
+
+[[entries]]
+question_id = "987654321"
+answer      = "テスト入力"
+comment     = "氏名"
